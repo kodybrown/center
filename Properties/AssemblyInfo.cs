@@ -14,7 +14,7 @@ using System.Resources;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("center ver:1.4.30605.0")]
+[assembly: AssemblyTitle("center ver:1.4.30607.1")]
 [assembly: AssemblyDescription("centers the current console window.")]
 [assembly: AssemblyCompany("Bricksoft.com")]
 [assembly: AssemblyProduct("center")]
@@ -23,7 +23,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 [assembly: CLSCompliant(false)]
 [assembly: Guid("594CA055-3BF8-47EC-B5C1-F8B57390396C")]
-[assembly: AssemblyVersion("1.4.30605.0")]
-[assembly: AssemblyFileVersion("1.4.30605.0")]
+[assembly: AssemblyVersion("1.4.30607.1")]
+[assembly: AssemblyFileVersion("1.4.30607.1")]
 
 
